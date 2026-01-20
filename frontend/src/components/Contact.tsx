@@ -32,9 +32,9 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: MapPin, label: "Location", value: "123 Fitness Street, NY 10001" },
-    { icon: Phone, label: "Phone", value: "+1 (555) 123-4567" },
-    { icon: Mail, label: "Email", value: "info@ironfit.com" },
+    { icon: MapPin, label: "Location", value: "Nairobi" },
+    { icon: Phone, label: "Phone", value: "0769482882" },
+    { icon: Mail, label: "Email", value: "mboyaronny41@gmail.com" },
     { icon: Clock, label: "Hours", value: "Mon-Sun: 5AM - 11PM" },
   ];
 
